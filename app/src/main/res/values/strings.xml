@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">forthefilnal</string>
     <string-array name="restorans">
-        <item>Aldom</item>
+        <item>Faculty of Economics and Commerce</item>
         <item>Pharmacy Cafeteria</item>
         <item>vanaila</item>
         <item>Science Cafeteria</item>
@@ -12,7 +12,7 @@
         <item>coktallRanush</item>
         <item>notella</item>
         <item>Tost</item>
-
+        <item>pastries</item>
 
     </string-array>
 </resources>
